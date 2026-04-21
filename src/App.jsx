@@ -1110,9 +1110,9 @@ export default function QuranTranslationLandingPage() {
                 initial="hidden"
                 animate="show"
                 variants={fadeUp}
-                className="text-3xl font-black leading-[1.25] sm:text-5xl lg:text-7xl"
+                className="overflow-visible text-3xl font-black leading-[1.4] sm:text-5xl lg:text-7xl"
               >
-                <span className="block bg-gradient-to-l from-[#F7B718] via-[#FFD978] to-[#DF7500] bg-clip-text text-transparent">
+                <span className="block px-1 pb-[0.18em] pt-[0.12em] bg-gradient-to-l from-[#F7B718] via-[#FFD978] to-[#DF7500] bg-clip-text text-transparent [text-wrap:balance]">
                   සනා කුරානි නාලිකා
                 </span>
               </motion.h1>
