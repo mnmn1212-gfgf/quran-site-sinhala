@@ -1239,7 +1239,7 @@ export default function QuranTranslationLandingPage() {
                       </div>
                     )}
 
-                    <div className="mt-6 grid grid-cols-3 gap-2 text-center sm:mt-8 sm:gap-3">
+                    <div className="mt-6 grid grid-cols-1 gap-3 text-center sm:mt-8 sm:grid-cols-3 sm:gap-3">
                       {heroCards.map((item) => (
                         <div
                           key={item.label}
@@ -1646,10 +1646,14 @@ export default function QuranTranslationLandingPage() {
                       href="https://www.facebook.com/people/%E0%B7%83%E0%B6%B1%E0%B7%8F%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD/61587172871591/"
                       target="_blank"
                       rel="noreferrer"
-                      className="flex items-center justify-center gap-2 rounded-xl border border-white/10 bg-white/5 py-3 text-sm font-semibold text-white transition hover:scale-[1.01] hover:bg-white/10"
+                      className="flex flex-col items-center justify-center gap-2 rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-center text-sm font-semibold leading-6 text-white transition hover:scale-[1.01] hover:bg-white/10 sm:flex-row sm:gap-3"
                     >
-                      <Globe className="h-4 w-4" style={{ color: ACCENT }} />
-                      Facebook හි අපව අනුගමනය කරන්න
+                      <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-[rgba(247,183,24,0.18)] bg-[rgba(247,183,24,0.08)]">
+                        <Globe className="h-4 w-4" style={{ color: ACCENT }} />
+                      </span>
+                      <span className="block max-w-[14rem] sm:max-w-none">
+                        Facebook හි අපව අනුගමනය කරන්න
+                      </span>
                     </a>
 
                     <p className="mt-4 text-center text-sm leading-6 text-white/70">
