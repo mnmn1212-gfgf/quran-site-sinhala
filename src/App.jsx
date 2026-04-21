@@ -1015,7 +1015,7 @@ export default function QuranTranslationLandingPage() {
         dir="ltr"
         className="relative min-h-screen overflow-hidden bg-transparent text-white"
       >
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_18%_20%,rgba(34,56,51,0.30),transparent_20%),radial-gradient(circle_at_18%_20%,rgba(247,183,24,0.08),transparent_24%),radial-gradient(circle_at_82%_18%,rgba(0,95,86,0.14),transparent_24%),radial-gradient(circle_at_50%_55%,rgba(247,183,24,0.06),transparent_28%),radial-gradient(circle_at_48%_72%,rgba(0,95,86,0.10),transparent_30%),linear-gradient(135deg,#223833_0%,#1E302D_12%,#26101A_28%,#213232_52%,#153F3B_70%,#0C2A28_86%,#081A19_100%)]" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_18%_20%,rgba(34,56,51,0.30),transparent_20%),radial-gradient(circle_at_18%_20%,rgba(247,183,24,0.08),transparent_24%),radial-gradient(circle_at_82%_18%,rgba(0,95,86,0.14),transparent_24%),radial-gradient(circle_at_50%_55%,rgba(247,183,24,0.06),transparent_28%),radial-gradient(circle_at_48%_72%,rgba(0,95,86,0.10),transparent_30%),radial-gradient(circle_at_92%_88%,rgba(34,27,34,0.42),transparent_26%),linear-gradient(135deg,#223833_0%,#1E302D_12%,#26101A_28%,#213232_52%,#153F3B_70%,#141C24_86%,#221B22_100%)]" />
 
         {!isMobile && (
           <>
