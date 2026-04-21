@@ -1151,7 +1151,7 @@ export default function QuranTranslationLandingPage() {
                 </a>
 
                 <a
-                  href="https://youtube.com/@san-ar-m5i?si=RpejWa62nYgs2LGQ"
+                  href="https://www.youtube.com/@%E0%B7%83%E0%B6%B1%E0%B7%8F.%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD"
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex items-center justify-center gap-3 rounded-2xl border border-white/15 bg-white/10 px-6 py-3.5 text-sm font-semibold text-white backdrop-blur-md transition hover:bg-white/15 sm:px-7 sm:py-4 sm:text-base"
@@ -1643,7 +1643,7 @@ export default function QuranTranslationLandingPage() {
 
                   <div className="mt-6 w-full rounded-[1.4rem] border border-white/10 bg-[rgba(18,10,12,0.54)] p-4">
                     <a
-                      href="https://www.facebook.com/share/1FVbmggbzc/"
+                      href="https://www.facebook.com/people/%E0%B7%83%E0%B6%B1%E0%B7%8F%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD/61587172871591/"
                       target="_blank"
                       rel="noreferrer"
                       className="flex items-center justify-center gap-2 rounded-xl border border-white/10 bg-white/5 py-3 text-sm font-semibold text-white transition hover:scale-[1.01] hover:bg-white/10"
@@ -1713,7 +1713,7 @@ export default function QuranTranslationLandingPage() {
                       </div>
 
                       <a
-                        href="https://www.youtube.com/@SAN-AR-m5i"
+                        href="https://www.youtube.com/@%E0%B7%83%E0%B6%B1%E0%B7%8F.%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD"
                         target="_blank"
                         rel="noreferrer"
                         className="mt-4 flex w-full items-center justify-center gap-2 rounded-xl border border-[rgba(247,183,24,0.24)] bg-[rgba(0,95,86,0.26)] py-3 text-sm font-bold text-[#F7D779] transition hover:scale-[1.01] hover:bg-[rgba(0,95,86,0.34)]"
